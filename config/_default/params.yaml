@@ -6,7 +6,7 @@
 # Appearance
 
 theme: mr robot
-day_night: true
+day_night: false
 font: native
 font_size: L
 
