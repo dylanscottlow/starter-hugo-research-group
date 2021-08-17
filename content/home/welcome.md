@@ -10,9 +10,8 @@ design:
   css_style: null
   css_class: null
   background:
-    image: icon.png
+    image: ""
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+T'is my the site where I will launch my new... site.
